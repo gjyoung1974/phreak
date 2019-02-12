@@ -7,4 +7,9 @@ Played it back into a payphone handset via my sony walkman's orange headphones.
 
 Voila, free calls! ...
 
+(replicated here in Java for sake of Nostalgia)   
+
+Cheers!    
+~Gordon
+
 #
