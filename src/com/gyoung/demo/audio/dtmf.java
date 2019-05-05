@@ -4,10 +4,7 @@ import javax.sound.sampled.AudioFormat;
 import javax.sound.sampled.AudioSystem;
 import javax.sound.sampled.SourceDataLine;
 
-/*Implement a dtmf dialer with javax’s DSP
- * Tone tables are in tones.java
- */
-
+// a dtmf dialer with javax.sound
 public class dtmf {
 
     public static void generateTones(float hz1, float hz2, int msecs, int volume)
